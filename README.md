@@ -1,12 +1,8 @@
-# Spotify Clone
+# React + Vite
 
-## Ideal Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- User authentication (Sign up, Login)
-- Browse music (albums, playlists, artists)
-- Play music (with play, pause, and seek functionality)
-- Create and manage playlists
-- Search functionality
-- Recommendations (basic or advanced)
-- Streaming music (real-time audio)
-- A visually appealing UI
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
